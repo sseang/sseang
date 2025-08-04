@@ -1,4 +1,4 @@
-### Hi there I'm Sarith👋🏻!, I'm a grad from @PrimeAcademy. A lifelong learner with a passion to explore new experiences.
+### Hi there I'm Sarith👋🏻!, I'm a grad from @PrimeAcademy. A lifelong learner with a passion to immerse myslef in new experiences.
 
 <!--
 **sseang/sseang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
